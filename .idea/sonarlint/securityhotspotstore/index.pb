@@ -7,3 +7,5 @@ X
 (tests/causal-loop-identification.test.ts,2/3/239aad2bd3049f0806f4763fcbd076c10fef6acf
 X
 (contracts/temporal-energy-recycling.clar,9/6/965b98580d83b82e1d9e0a269ec4a5d9e19eb44d
+W
+'tests/temporal-energy-recycling.test.ts,7/6/76f0b0117a51edc791538b977628e2fdafdcfabb
