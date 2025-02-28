@@ -5,3 +5,5 @@ Y
 )contracts/causal-loop-identification.clar,d/3/d309672f3b79a2b8aa5264e0aff794b929ea7e1c
 X
 (tests/causal-loop-identification.test.ts,2/3/239aad2bd3049f0806f4763fcbd076c10fef6acf
+X
+(contracts/temporal-energy-recycling.clar,9/6/965b98580d83b82e1d9e0a269ec4a5d9e19eb44d
